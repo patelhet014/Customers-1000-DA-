@@ -23,13 +23,8 @@ Companies often struggle to understand their customer base. By segmenting custom
 ## 🚀 How to Run
 
 1. Clone the repository or download the notebook
-2. Install dependencies with:
 
-```
-pip install -r requirements.txt
-```
-
-3. Open the notebook in Jupyter:
+2. Open the notebook in Jupyter:
 
 ```
 jupyter notebook CRM_Customer_Segmentation.ipynb
