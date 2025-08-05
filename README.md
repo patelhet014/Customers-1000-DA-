@@ -1,4 +1,4 @@
-# CRM 
+# CRM Customer Segmentation
 
 This project performs basic **unsupervised machine learning** on CRM (Customer Relationship Management) data to segment customers into distinct groups. It uses clustering techniques to identify meaningful customer patterns based on their behavior or features.
 
